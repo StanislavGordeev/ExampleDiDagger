@@ -1,0 +1,6 @@
+include ':feature'
+include ':work'
+include ':core_ui'
+include ':core'
+include ':injector'
+rootProject.name = "ExampleDiDagger"
